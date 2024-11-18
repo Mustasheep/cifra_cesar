@@ -5,7 +5,7 @@
 -- Por exemplo, com um deslocamento de 3, 'A' se torna 'D', 'B' se torna 'E', e assim por diante. A mensagem cifrada é decifrada deslocando as letras na direção oposta.
 
 ## Codificando 🔒
-* A função deste repo é a utilização do código para codificar e decodificar textos utilizando a cifra de césar.
+* A utilização do código presente neste repositório tem o objetivo de codificar e decodificar textos, utilizando a cifra de césar.
 
 ![alt text](encode.png)
 
